@@ -1,0 +1,2 @@
+rootProject.name='listadeItens'
+include ':app'
